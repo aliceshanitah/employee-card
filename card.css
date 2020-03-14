@@ -1,10 +1,10 @@
 .card{
-    height: 350px;
+    height: 330px;
     width: 200px;
     background-color:#ffff;
     border-radius: 20px;
     box-shadow: black;
-    margin-top: 30px;
+    margin-top: 70px;
     
 }
 .body{
@@ -49,7 +49,9 @@ img{
 .add{
     font-size: 10px;
 }
-.padd{
-    margin-bottom: 0px;
-   
+.name h3{
+    margin: 0;
+}
+.subtitle{
+    margin: 0;
 }
